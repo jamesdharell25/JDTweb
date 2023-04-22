@@ -1,2 +1,3 @@
-# Portfolio Website of james dharell
+# Portfolio Website of James Dharell
 
+WELCOMEE!!
